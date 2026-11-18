@@ -48,8 +48,6 @@ SHARED_FILES: tuple[tuple[str, tuple[str, ...]], ...] = (
         "scripts/generate_schematic.py",
         (
             "scientific-schematics",
-            "latex-posters",
-            "literature-review",
             "scientific-slides",
         ),
     ),
@@ -57,8 +55,6 @@ SHARED_FILES: tuple[tuple[str, tuple[str, ...]], ...] = (
         "scripts/generate_schematic_ai.py",
         (
             "scientific-schematics",
-            "latex-posters",
-            "literature-review",
             "scientific-slides",
         ),
     ),
